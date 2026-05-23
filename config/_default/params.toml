@@ -228,6 +228,6 @@
     # 遵循浏览器的”要求网站不跟踪我“设定
     Do_not_track = true
 
-  [analytics.umami]
-    data_website_id = "5722978f-b38f-4a9f-a1bf-a6b72f71388d"
-    src = "https://s.tei.li/script.js"
+  # [analytics.umami]
+  #   data_website_id = "5722978f-b38f-4a9f-a1bf-a6b72f71388d"
+  #   src = "https://s.tei.li/script.js"
